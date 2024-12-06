@@ -3,6 +3,6 @@ Repositório Criado para as atividades de Programação para Dispositivos Móvei
 
 Membros do grupo:  
 
-Carlos Henrique de Oliveira 
-Gabriel Vicente Cobianqui Pacheco 
-Guilherme Soares Brando
+* Carlos Henrique de Oliveira 
+* Gabriel Vicente Cobianqui Pacheco 
+* Guilherme Soares Brando
